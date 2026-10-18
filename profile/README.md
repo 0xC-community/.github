@@ -9,13 +9,14 @@
 &emsp;&emsp;¿Vienes de otra comunidad?<br>
 &emsp;&emsp;También podemos armar algo juntos.
 </p>
-
-<br clear="both">
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,go,rust,php,kotlin,cs,ruby&perline=12&theme=dark" width="480" alt="Lenguajes de programación">
-<br><br>
-<img src="https://skillicons.dev/icons?i=linux,docker,postgres,git&theme=dark" width="155" alt="Linux, Docker, PostgreSQL y Git">
-<br><br>
-<strong>Puro 0xC.</strong>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,go,rust,php,kotlin,cs,ruby&perline=12&theme=dark" width="480" alt="Lenguajes de programación">
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,react,nextjs,vue,angular,tailwind,html,css,vite&perline=12&theme=dark" width="480" alt="Frameworks y desarrollo web">
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,nginx,postgres,mysql,redis,mongodb,supabase&perline=12&theme=dark" width="480" alt="Cloud, infraestructura y bases de datos">
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea,postman,bash,figma&perline=8&theme=dark" width="315" alt="Herramientas de desarrollo">
+  <br><br>
+  <strong>Puro 0xC.</strong>
 </p>
