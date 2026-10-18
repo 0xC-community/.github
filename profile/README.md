@@ -1,24 +1,20 @@
-<div align="center">
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Gato programando">
+</td>
+<td width="70%">
 
-# 0xC
+<h1>0xC</h1>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="190" alt="Gato escribiendo en una computadora">
+<p>Trae tu idea, comparte tu proyecto o súmate al de alguien más. Aquí nos juntamos para hacer cosas y aprender entre todos.</p>
 
-### ¿Qué andas construyendo?
+<p>¿Vienes de otra comunidad? También podemos armar algo juntos.</p>
 
-Trae tu idea, comparte tu proyecto o súmate al de alguien más.<br>
-Aquí nos juntamos para hacer cosas y aprender entre todos.<br>
-También se arman colaboraciones con otras comunidades.
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,linux,docker,postgres,git&theme=dark" width="300" alt="Tecnologías">
 
-<br>
+<p><strong>Puro 0xC.</strong></p>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,linux,docker,postgres,git&theme=dark" height="36" alt="Java, Python, JavaScript, TypeScript, Linux, Docker, PostgreSQL y Git">
-
-<br><br>
-
-No todo es código. También hacen falta diseño, pruebas y documentación.<br>
-Si algo te interesa, date una vuelta por los repos y abre un issue.
-
-**Puro 0xC.**
-
-</div>
+</td>
+</tr>
+</table>
